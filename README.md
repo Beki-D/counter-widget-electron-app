@@ -37,3 +37,5 @@ This is just the beginning of my desktop development journey. I have plans to en
 I'd like to thank the open-source community for providing resources and tools that enabled me to create this widget. Your contributions and dedication have inspired me to explore new horizons.
 
 Happy counting!
+
+![Desktop Development GIF](images//Working.gif)
