@@ -38,4 +38,4 @@ I'd like to thank the open-source community for providing resources and tools th
 
 Happy counting!
 
-![Desktop Development GIF](images//Working.gif)
+![Desktop Development GIF](images/Working.gif)
