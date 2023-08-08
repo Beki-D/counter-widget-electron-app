@@ -1,5 +1,7 @@
 # Desktop Counter Widget
 
+![Widget Screenshot](images/Screenshot-1.PNG)
+
 Welcome to my first foray into desktop development! As someone with a background in web development and a deep affection for JavaScript, I embarked on a journey to create a simple and fun counter widget for my everyday tasks.
 
 ## Background
